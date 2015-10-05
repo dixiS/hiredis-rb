@@ -1,3 +1,11 @@
+### 0.7.1 (2015-10-05)
+
+* Bump hiredis to 0.13.3
+
+### 0.7.0 (2015-09-02)
+
+* Bump hiredis to 0.13.2
+
 ### 0.6.0 (2015-02-08)
 
 * Update to use new hiredis 0.12
